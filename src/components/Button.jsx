@@ -4,7 +4,7 @@ import './Button.css'
 export default props =>
     <button
         className={`
-            'button'
+            button
             ${props.operation ? 'operation' : ''}
             ${props.double ? 'double' : ''}
             ${props.triple ? 'triple' : ''}
