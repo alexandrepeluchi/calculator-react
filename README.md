@@ -5,6 +5,9 @@ It's a simple arithmetic calculator built with React JS library.
 
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Screenshot
+![Alt ou título da imagem](https://i.imgur.com/lpBDI0W.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
