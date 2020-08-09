@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Calculator React JS
+
+Project created during the Code Dojo of our Cloud Team.
+It's a simple arithmetic calculator built with React JS library.
+
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Screenshot
+![Alt ou título da imagem](https://i.imgur.com/lpBDI0W.png)
 
 ## Available Scripts
 
