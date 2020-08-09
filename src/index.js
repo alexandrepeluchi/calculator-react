@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>Calculadora</h1>
+    <h1>Simple Calculator</h1>
     <Calculator />
   </React.StrictMode>,
   document.getElementById('root')
